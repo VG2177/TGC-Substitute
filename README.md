@@ -5,7 +5,6 @@
 <h3 align="center">A Cool HTML, CSS</h3>
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  
-  <img src="https://komarev.com/ghpvc/?username=tgcofficial&label=Profile Visitors&color=9D36F7&style=flat" alt="tgcofficial" />
   <img alt="" src="https://img.shields.io/badge/Discord-oksaturn-red/?logo=discord&color=7289DA">
   <img alt="" src="https://img.shields.io/badge/Discord-okglitch-red/?logo=discord&color=7289DA">
   <img alt="" src="https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954">
@@ -15,5 +14,5 @@
   <img src="https://img.shields.io/badge/Knows-LUA-blue/?logo=css&logoColor=warning&color=blue" alt="lua">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgcofficial&no-frame=trueno-bg=true" alt="tgcofficial" /></a> </p>
 
-- I’m currently working on [my main website](https://github.com/tgcofficial/tgcofficial.github.io) and whatever else!
+- I’m currently working on [my main website](https://tgcofficial.github.io) and whatever else!
 <p align="left">
